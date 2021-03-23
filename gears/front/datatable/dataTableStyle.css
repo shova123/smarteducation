@@ -1,0 +1,807 @@
+.table-bordered {
+  border-top: 0;
+}
+.table-bordered.table-force-topborder {
+  border-top: 1px solid #ddd;
+}
+.table-bordered.dataTable {
+  border-top: 1px solid #ddd;
+}
+.table-bordered.dataTable.dataTable-noheader {
+  border-top: 0;
+}
+
+.table-bordered, .table-bordered thead:first-child tr:first-child > th:first-child, .table-bordered tbody:first-child tr:first-child > td:first-child, .table-bordered tbody:first-child tr:first-child > th:first-child, .table-bordered thead:first-child tr:first-child > th:last-child, .table-bordered tbody:first-child tr:first-child > td:last-child, .table-bordered tbody:first-child tr:first-child > th:last-child, .table-bordered thead:last-child tr:last-child > th:first-child, .table-bordered tbody:last-child tr:last-child > td:first-child, .table-bordered tbody:last-child tr:last-child > th:first-child, .table-bordered tfoot:last-child tr:last-child > td:first-child, .table-bordered tfoot:last-child tr:last-child > th:first-child, .table-bordered thead:last-child tr:last-child > th:last-child, .table-bordered tbody:last-child tr:last-child > td:last-child, .table-bordered tbody:last-child tr:last-child > th:last-child, .table-bordered tfoot:last-child tr:last-child > td:last-child, .table-bordered tfoot:last-child tr:last-child > th:last-child {
+  -webkit-border-radius: 0 !important;
+  -moz-border-radius: 0 !important;
+  border-radius: 0 !important;
+}
+
+
+.tooltip .tooltip-inner {
+  -moz-border-radius: 0;
+  -webkit-border-radius: 0;
+  border-radius: 0;
+}
+
+/*
+.form-horizontal .control-label {
+  text-align: left;
+}
+.form-horizontal .controls {
+  margin-left: 160px;
+}*/
+
+
+.table.table-condensed tr th, .table.table-condensed tr td {
+  padding: 4px 5px;
+}
+.table tr th, .table tr td {
+  padding: 10px;
+  border-top: 1px dotted #ddd;
+}
+
+/*
+.sortable-box .box-title:hover {
+  cursor: move;
+}*/
+
+.box.box-condensed .box-title {
+  padding: 2px 0 2px 4px;
+}
+.box.box-condensed .box-title h3 {
+  font-size: 18px;
+}
+.box.box-condensed .box-title .actions {
+  margin-top: 1px;
+}
+.box.box-condensed .box-title .actions .btn > i {
+  font-size: 12px;
+}
+.box.box-condensed .box-title .actions .btn {
+  padding: 4px 8px;
+}
+.box.box-condensed .box-content {
+  padding: 10px;
+}
+.box.box-small .box-title {
+  padding: 0 0 0 3px;
+}
+.box.box-small .box-title h3 {
+  font-size: 16px;
+}
+.box.box-small .box-title .actions {
+  margin-top: 3px;
+}
+.box.box-small .box-title .actions .btn > i {
+  font-size: 11px;
+}
+.box.box-small .box-title .actions .btn {
+  padding: 2px 7px;
+}
+.box.box-small .box-content {
+  padding: 5px;
+}
+.box.box-color .box-title {
+  background: #368ee0;
+}
+.box.box-color .box-title h3 {
+  color: #fff;
+}
+.box.box-color .box-title .tabs > li.active > a {
+  background: #fff;
+  color: #368ee0;
+}
+.box.box-color .box-title .tabs > li > a {
+  color: #fff;
+}
+.box.box-color .box-title .tabs > li > a:hover {
+  color: #368ee0;
+}
+.box.box-color .box-title .actions > a {
+  color: #fff;
+}
+.box.box-color .box-title .actions > a:hover {
+  background: #fff;
+  color: #368ee0;
+}
+.box.box-bordered .table {
+  margin-bottom: 0;
+}
+.box.box-bordered .table.dataTable-fixedcolumn.DTFC_Cloned {
+  border-right: 2px solid #ddd;
+}
+.box.box-bordered .table.dataTable-fixedcolumn.DTFC_Cloned th {
+  border-right: 2px solid #333;
+}
+.box.box-bordered .table.dataTable-fixedcolumn.DTFC_Cloned td {
+  text-align: center;
+}
+.box.box-bordered .table.table-bordered {
+  border-right: 0;
+}
+.box.box-bordered .table.table-bordered th:first-child, .box.box-bordered .table.table-bordered td:first-child {
+  border-left: 0;
+}
+.box.box-bordered .table.table-bordered th:last-child, .box.box-bordered .table.table-bordered td:last-child {
+  border-right: 0;
+}
+.box.box-bordered .form-bordered {
+  margin-bottom: 0;
+}
+.box.box-bordered .slimScrollDiv {
+  border-bottom: 2px solid #ddd;
+}
+.box.box-bordered.box-color .slimScrollDiv {
+  border-bottom: 2px solid #368ee0;
+}
+.box.box-bordered.box-color .box-title {
+  border-color: #368ee0;
+}
+.box.box-bordered.box-color .box-content {
+  border-color: #368ee0;
+}
+.box.box-bordered .box-title {
+  border: 2px solid #ddd;
+}
+.box.box-bordered .box-content {
+  border: 2px solid #ddd;
+  border-top: 0;
+}
+.box .box-title {
+  *zoom: 1;
+  border-bottom: 1px solid #ddd;
+  padding: 7px 0 7px 10px;
+  margin-top: 20px;
+}
+.box .box-title:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+.box .box-title h3 {
+  float: left;
+  margin: 3px 0 3px 0;
+  line-height: 24px;
+  font-weight: 400;
+  color: #444;
+  font-size: 20px;
+}
+.box .box-title h3 i {
+  margin: 0 10px 0 5px;
+}
+.box .box-title .tabs {
+  float: right;
+  *zoom: 1;
+  margin: 5px 10px 0 0;
+  padding: 0;
+  list-style-type: none;
+}
+.box .box-title .tabs:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+.box .box-title .tabs.tabs-left {
+  float: left;
+}
+.box .box-title .tabs > li {
+  float: left;
+  margin-right: 5px;
+}
+.box .box-title .tabs > li:last-child {
+  margin-right: 0;
+}
+.box .box-title .tabs > li > a {
+  padding: 4px 8px;
+}
+.box .box-title .tabs > li > a:hover {
+  text-decoration: none;
+  background: #eee;
+}
+.box .box-title .tabs > li.active > a {
+  background: #368ee0;
+  color: #fff;
+}
+.box .box-title .actions {
+  margin-top: 0px;
+  float: right;
+  margin-right: 10px;
+}
+.box .box-title .actions .btn {
+  background: none;
+  color: #333;
+  padding: 5px 9px;
+}
+.box .box-title .actions .btn:hover {
+  background: #368ee0;
+  color: #fff;
+}
+.box .box-title .actions .content-move {
+  cursor: move;
+}
+.box .box-content {
+  *zoom: 1;
+  padding: 20px;
+  background: #fff;
+}
+.box .box-content:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+
+
+#ui-datepicker-div {
+  -moz-border-radius: 0;
+  -webkit-border-radius: 0;
+  border-radius: 0;
+  display: none;
+}
+
+.jq-datepicker .ui-datepicker {
+  background: #fafafa;
+  width: 174px;
+  border: 1px solid #ccc;
+  font-size: 11px;
+  position: relative;
+  padding: 0;
+  -moz-border-radius: 0;
+  -webkit-border-radius: 0;
+  border-radius: 0;
+}
+
+.ui-datepicker {
+  background: #fff;
+  border: 2px solid #999;
+  font-size: 11px;
+  position: relative;
+  padding: 0;
+  -moz-border-radius: 0;
+  -webkit-border-radius: 0;
+  border-radius: 0;
+}
+.ui-datepicker .ui-widget-header {
+  background: none;
+  -moz-border-radius: 0;
+  -webkit-border-radius: 0;
+  border-radius: 0;
+  border: 0;
+  padding: 0;
+}
+.ui-datepicker .ui-datepicker-title {
+  text-align: center;
+  font-weight: bold;
+  margin: 12px 0;
+}
+.ui-datepicker .ui-datepicker-prev {
+  float: left;
+  display: block;
+  width: 20px;
+  height: 20px;
+  cursor: pointer;
+  margin-left: 2px;
+  background: none !important;
+  border: 0 !important;
+  margin-top: 10px;
+  position: relative;
+  -moz-border-radius: 0;
+  -webkit-border-radius: 0;
+  border-radius: 0;
+}
+.ui-datepicker .ui-datepicker-prev.ui-state-hover {
+  font-weight: bold;
+}
+.ui-datepicker .ui-datepicker-prev .ui-icon {
+  display: none;
+}
+.ui-datepicker .ui-datepicker-prev:hover {
+  background: #ddd !important;
+}
+.ui-datepicker .ui-datepicker-prev:hover:before {
+  color: #000;
+}
+.ui-datepicker .ui-datepicker-prev:before {
+  content: "\f104";
+  font-family: "FontAwesome";
+  display: block;
+  position: absolute;
+  left: 7px;
+  top: 2px;
+  color: #444;
+}
+.ui-datepicker .ui-datepicker-next {
+  float: right;
+  display: block;
+  width: 20px;
+  height: 20px;
+  cursor: pointer;
+  background: none !important;
+  border: 0 !important;
+  margin-top: 10px;
+  margin-right: 2px;
+  position: relative;
+  -moz-border-radius: 0;
+  -webkit-border-radius: 0;
+  border-radius: 0;
+}
+.ui-datepicker .ui-datepicker-next.ui-state-hover {
+  font-weight: bold;
+}
+.ui-datepicker .ui-datepicker-next .ui-icon {
+  display: none;
+}
+.ui-datepicker .ui-datepicker-next:hover {
+  background: #ddd !important;
+}
+.ui-datepicker .ui-datepicker-next:hover:before {
+  color: #000;
+}
+.ui-datepicker .ui-datepicker-next:before {
+  content: "\f105";
+  font-family: "FontAwesome";
+  display: block;
+  position: absolute;
+  right: 7px;
+  top: 2px;
+  color: #444;
+}
+.ui-datepicker .ui-datepicker-calendar {
+  margin-bottom: 2px;
+  margin-left: 0;
+}
+.ui-datepicker .ui-datepicker-calendar th, .ui-datepicker .ui-datepicker-calendar td {
+  text-align: center;
+  width: 24px;
+  padding: 0;
+}
+.ui-datepicker .ui-datepicker-calendar th {
+  color: #777;
+  padding: 0;
+}
+.ui-datepicker .ui-datepicker-calendar th span {
+  display: block;
+  padding: 0;
+  width: 24px;
+}
+.ui-datepicker .ui-datepicker-calendar td {
+  padding: 0;
+}
+.ui-datepicker .ui-datepicker-calendar td:hover > a {
+  background: #368ee0;
+  text-decoration: none;
+  color: #fff;
+}
+.ui-datepicker .ui-datepicker-calendar td.ui-datepicker-current-day > a {
+  background: #368ee0;
+  color: #fff;
+}
+.ui-datepicker .ui-datepicker-calendar td.ui-datepicker-other-month:hover > a {
+  background: #62a7e7;
+  text-decoration: none;
+  color: #fff;
+}
+.ui-datepicker .ui-datepicker-calendar td.ui-datepicker-other-month > a {
+  color: #999;
+}
+.ui-datepicker .ui-datepicker-calendar td > a {
+  padding: 2px 0;
+  width: 24px;
+  display: block;
+  border: 0;
+  background: none;
+  text-align: center;
+}
+
+
+.table.table-hover tr:hover > td {
+  background: #f8f8f8;
+}
+.table .with-checkbox {
+  width: 10px;
+  vertical-align: middle;
+}
+.table .with-checkbox input {
+  margin-left: 4px;
+  margin-top: 0;
+}
+.table.dataTable {
+  margin-bottom: 10px;
+  clear: both;
+}
+.table.dataTable.dataTable-grouping .group {
+  background: #e6e6e6;
+  border-top: 2px solid #ccc;
+}
+.table.dataTable.dataTable-grouping .group.expanded-group {
+  background: url("img/expanded-group.jpg") no-repeat left center #e6e6e6;
+  padding-left: 33px;
+}
+.table.dataTable.dataTable-grouping .group.expanded-group:hover {
+  cursor: pointer;
+}
+.table.dataTable.dataTable-grouping .group.collapsed-group {
+  background: url("img/collapsed-group.jpg") no-repeat left center #e6e6e6;
+  padding-left: 33px;
+}
+.table.dataTable.dataTable-grouping .group.collapsed-group:hover {
+  cursor: pointer;
+}
+.table.dataTable .sorting_asc {
+  background: url("img/sorting-asc.png") no-repeat right center #eee;
+}
+.table.dataTable .sorting_desc {
+  background: url("img/sorting-desc.png") no-repeat right center #eee;
+}
+.table.dataTable .sorting {
+  background: url("img/sorting.png") no-repeat right center #eee;
+}
+.table.dataTable .sorting, .table.dataTable .sorting_desc, .table.dataTable .sorting_asc {
+  padding-right: 30px;
+  white-space: nowrap;
+}
+.table.dataTable.dataTable-scroll-x {
+  border-collapse: separate;
+  max-width: none;
+}
+.table.dataTable.dataTable-scroll-x * {
+  box-sizing: initial;
+}
+.table.dataTable.dataTable-scroll-x td, .table.dataTable.dataTable-scroll-x th {
+  white-space: nowrap;
+}
+.table.dataTable th:focus {
+  outline: none;
+}
+.table.dataTable.dataTable-reorder th:hover {
+  cursor: move;
+}
+.table.table-colored-header thead th, .table.table-colored-header thead td {
+  background: #368ee0;
+  color: #fff;
+}
+.table.table-nohead thead {
+  display: none;
+}
+.table.table-nohead thead th, .table.table-nohead thead td {
+  display: none;
+}
+.table.table-nohead tr:first-child td {
+  border: 0;
+}
+.table tr td {
+  vertical-align: middle;
+}
+.table tr td .label {
+  margin-right: 3px;
+}
+.table tr th {
+  vertical-align: middle;
+  background: #eee;
+}
+.table.table-user tr.alpha td.alpha-val span {
+  background: #368ee0;
+  color: #fff;
+  display: block;
+  padding: 10px 0;
+  text-align: center;
+  font-size: 18px;
+}
+.table.table-user tr.alpha:hover td {
+  background: white;
+  cursor: pointer;
+}
+.table.table-user tr:first-child td {
+  border: 0;
+}
+.table.table-user tr td {
+  border-top: 1px dotted #ccc;
+}
+.table.table-user tr td.img {
+  width: 40px;
+}
+.table.table-user tr td.img img {
+  width: 40px;
+}
+.table.table-user tr td.user {
+  text-align: left;
+  vertical-align: middle;
+}
+.table.table-user tr td.icon {
+  width: 20px;
+  vertical-align: middle;
+}
+.table.table-user tr td.icon .online {
+  font-size: 10px;
+  color: #4fa828;
+}
+
+.table-mail tbody tr > td {
+  cursor: pointer;
+}
+.table-mail tbody tr.warning > td {
+  background-color: #deecfa;
+}
+.table-mail .table-checkbox {
+  width: 15px;
+}
+.table-mail .table-icon {
+  width: 20px;
+}
+.table-mail .table-icon .sel-star {
+  color: #aaa;
+  text-decoration: none;
+}
+.table-mail .table-icon .sel-star:hover {
+  color: #f8a31f;
+}
+.table-mail .table-icon .sel-star.active {
+  color: #f8a31f;
+}
+.table-mail .table-date {
+  width: 100px;
+}
+.table-mail .table-fixed-medium {
+  width: 200px;
+}
+
+.ui-widget-header {
+  color: #333;
+}
+
+.table-pagination {
+  float: right;
+  margin-right: 5px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+.table-pagination > a {
+  margin-right: 5px;
+  background: #eee;
+  padding: 3px 8px;
+  color: #333;
+  text-decoration: none;
+  cursor: pointer;
+}
+.table-pagination > a.disabled {
+  color: #999;
+}
+.table-pagination > a.disabled:hover {
+  background: #eee;
+  cursor: default;
+}
+.table-pagination > a:hover {
+  background: #ddd;
+}
+.table-pagination > span > a {
+  padding: 3px 8px;
+  margin-right: 5px;
+  background: #eee;
+  color: #333;
+  text-decoration: none;
+  cursor: pointer;
+}
+.table-pagination > span > a.active {
+  background: #368ee0;
+  color: #fff;
+}
+
+.dataTables_filter input {
+  margin-bottom: 0;
+  padding: 4px 0;
+  text-indent: 8px;
+  -moz-box-shadow: none;
+  -webkit-box-shadow: none;
+  box-shadow: none;
+  border: 1px solid #aaa;
+  display: inline;
+  margin-left: 5px;
+  background: #f6f6f6;
+}
+.dataTables_filter input:focus {
+  background: #fff;
+  border: 1px solid #368ee0;
+}
+
+.dataTables_wrapper.no-footer .dataTables_info {
+  line-height: 30px;
+}
+
+.dataTable-col_filter th {
+  vertical-align: middle !important;
+}
+.dataTable-col_filter th input {
+  margin-bottom: 0;
+  width: 100%;
+  padding: 4px 0;
+  text-indent: 8px;
+  background: #fff;
+  -moz-box-shadow: none;
+  -webkit-box-shadow: none;
+  box-shadow: none;
+  border: 1px solid #aaa;
+}
+.dataTable-col_filter th input.dataTable-datepicker-to {
+  margin-top: 2px;
+}
+.dataTable-col_filter th input:focus {
+  border: 1px solid #368ee0;
+}
+.dataTable-col_filter th select {
+  margin-bottom: 0;
+  width: 100%;
+  background: #fff;
+}
+
+
+.pagination.pagination-custom {
+  height: 28px;
+  margin-top: -1px;
+}
+.pagination.pagination-custom li.active a {
+  background: #368ee0;
+  color: #fff;
+}
+.pagination.pagination-custom li.active a:hover {
+  background: #368ee0;
+}
+.pagination.pagination-custom li a {
+  background: #eee;
+  text-decoration: none;
+  color: #333;
+  border: 0;
+  padding: 7px 12px;
+  -moz-border-radius: 0;
+  -webkit-border-radius: 0;
+  border-radius: 0;
+}
+.pagination.pagination-custom li a:hover {
+  background: #ddd;
+}
+
+
+.dataTables_wrapper .ColVis {
+  margin: 10px 10px 10px 0;
+}
+.dataTables_wrapper .ColVis .ColVis_Button {
+  background: #eee;
+  padding: 3px 8px;
+  border: 0;
+}
+.dataTables_wrapper .ColVis .ColVis_Button i {
+  margin-left: 5px;
+}
+.dataTables_wrapper .ColVis .ColVis_Button:hover {
+  background: #ddd;
+}
+.dataTables_wrapper .dataTables_length {
+  float: left;
+  min-width: 200px;
+  margin: 10px 10px 5px 10px;
+  line-height: 29px;
+}
+.dataTables_wrapper .dataTables_length .input-mini {
+  float: left;
+}
+.dataTables_wrapper .dataTables_length label > span {
+  float: left;
+  margin: 4px 5px;
+}
+.dataTables_wrapper .DTTT_container {
+  margin: 10px 5px 10px 0;
+}
+.dataTables_wrapper .DTTT_container .DTTT_button {
+  padding: 8px 7px 7px 8px;
+  background: #eee;
+  -moz-box-shadow: none;
+  -webkit-box-shadow: none;
+  box-shadow: none;
+  -moz-border-radius: 0;
+  -webkit-border-radius: 0;
+  border-radius: 0;
+  border: 0;
+  margin-right: 5px;
+  color: #333;
+}
+.dataTables_wrapper .DTTT_container .DTTT_button:hover {
+  background: #ddd;
+}
+.dataTables_wrapper .dataTables_filter {
+  float: right;
+  margin: 10px 10px 5px 5px;
+}
+.dataTables_wrapper .dataTables_filter input {
+  margin-bottom: 0;
+}
+.dataTables_wrapper .dataTables_info {
+  float: left;
+  margin-left: 10px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+.dataTables_wrapper .dataTables_info span {
+  font-weight: 600;
+}
+.dataTables_wrapper .dataTables_paginate {
+  float: right;
+  margin: 17px 5px 10px 0;
+}
+.dataTables_wrapper .dataTables_paginate > a {
+  margin-right: 5px;
+  background: #eee;
+  padding: 3px 8px;
+  color: #333;
+  text-decoration: none;
+  cursor: pointer;
+}
+.dataTables_wrapper .dataTables_paginate > a.paginate_button_disabled {
+  color: #999;
+}
+.dataTables_wrapper .dataTables_paginate > a.paginate_button_disabled:hover {
+  background: #eee;
+  cursor: default;
+}
+.dataTables_wrapper .dataTables_paginate > a:hover {
+  background: #ddd;
+}
+.dataTables_wrapper .dataTables_paginate > span > a {
+  padding: 3px 8px;
+  margin-right: 5px;
+  background: #eee;
+  color: #333;
+  text-decoration: none;
+  cursor: pointer;
+}
+.dataTables_wrapper .dataTables_paginate > span > a.paginate_active {
+  background: #368ee0;
+  color: #fff;
+}
+
+.dataTables_scroll {
+  clear: both;
+}
+
+.dataTables_scrollBody {
+  *margin-top: -1px;
+  -webkit-overflow-scrolling: touch;
+}
+
+.datepicker.datepicker-dropdown {
+  -moz-border-radius: 0;
+  -webkit-border-radius: 0;
+  border-radius: 0;
+}
+.datepicker.datepicker-dropdown:before, .datepicker.datepicker-dropdown:after {
+  border: 0;
+}
+.datepicker.datepicker-dropdown .datepicker-days td, .datepicker.datepicker-dropdown .datepicker-days th, .datepicker.datepicker-dropdown .datepicker-days span, .datepicker.datepicker-dropdown .datepicker-years td, .datepicker.datepicker-dropdown .datepicker-years th, .datepicker.datepicker-dropdown .datepicker-years span, .datepicker.datepicker-dropdown .datepicker-months td, .datepicker.datepicker-dropdown .datepicker-months th, .datepicker.datepicker-dropdown .datepicker-months span {
+  -moz-border-radius: 0;
+  -webkit-border-radius: 0;
+  border-radius: 0;
+}
+.datepicker.datepicker-dropdown .datepicker-days .active, .datepicker.datepicker-dropdown .datepicker-years .active, .datepicker.datepicker-dropdown .datepicker-months .active {
+  background: #368ee0;
+  -moz-border-radius: 0;
+  -webkit-border-radius: 0;
+  border-radius: 0;
+}
+.datepicker.datepicker-dropdown .datepicker-days .active:hover, .datepicker.datepicker-dropdown .datepicker-years .active:hover, .datepicker.datepicker-dropdown .datepicker-months .active:hover {
+  background: #1e74c5;
+  -moz-border-radius: 0;
+  -webkit-border-radius: 0;
+  border-radius: 0;
+}
+
+.daterangepicker:before, .daterangepicker:after {
+  border: 0 !important;
+}
+.daterangepicker th, .daterangepicker td, .daterangepicker td:hover, .daterangepicker td.active, .daterangepicker .calendar {
+  -moz-border-radius: 0;
+  -webkit-border-radius: 0;
+  border-radius: 0;
+}
+.daterangepicker .active {
+  background: #368ee0;
+  background-image: none !important;
+}

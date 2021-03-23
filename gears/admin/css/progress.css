@@ -1,0 +1,78 @@
+   
+/*progress bar for password strtength*/
+.help-block{
+    .progress{
+        margin-bottom: 0;
+    }
+}
+.progress .bar.bar-blue {
+    background: #368ee0;
+}
+
+.progress .bar.bar-orange {
+  background: #f8a31f;
+}
+
+.progress .bar.bar-red {
+  background: #e51400;
+}
+
+.progress .bar.bar-green {
+  background: #339933;
+}
+
+.progress .bar.bar-lime {
+  background: #8cbf26;
+}
+
+.progress .bar.bar-teal {
+  background: #00aba9;
+}
+
+.progress .bar.bar-purple {
+  background: #ff0097;
+}
+
+.progress .bar.bar-brown {
+  background: #a05000;
+}
+
+.progress .bar.bar-pink {
+  background: #e671b8;
+}
+
+.progress .bar.bar-magenta {
+  background: #a200ff;
+}
+
+.progress .bar.bar-grey {
+  background: #333333;
+}
+
+.progress .bar.bar-darkblue {
+  background: #204e81;
+}
+
+.progress .bar.bar-lightred {
+  background: #e63a3a;
+}
+
+.progress .bar.bar-lightgrey {
+  background: #666666;
+}
+
+.progress .bar.bar-satblue {
+  background: #2c5e7b;
+}
+
+.progress .bar.bar-satgreen {
+  background: #56af45;
+}
+
+.progress .bar.bar-grey-3 {
+  background: #eeeeee;
+}
+
+.progress .bar.bar-grey-4 {
+  background: #999999;
+}

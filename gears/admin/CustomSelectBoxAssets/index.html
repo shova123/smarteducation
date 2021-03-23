@@ -1,0 +1,134 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+	<head>
+
+		<title>Custom Checkboxes, Custom Radio Buttons, Custom Select Lists</title>
+
+		<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+		<meta name="keywords" content="checkbox, radio button, select, option, list, html, javascript, example" />
+		<meta name="description" content="Custom form elements to style HTML checkboxes, radio buttons and select lists." />
+
+		<script type="text/javascript" src="custom-form-elements.js"></script>
+
+		<link rel="stylesheet" href="code.css" media="screen" />
+		<link rel="stylesheet" href="form.css" media="screen" />
+		
+		<style type="text/css">
+			body {
+				padding: 20px;
+			}
+			p {
+				font: 1em/1.7em arial,sans-serif;
+			}
+			.third {
+				width: 30%;
+				float: left;
+			}
+			.clear {
+				clear: both;
+			}
+		</style>
+
+	</head>
+	<body>
+		<h1>Custom HTML Checkboxes, Radio Buttons and Select Lists</h1>
+		<h2>Working Example with Submission</h2>
+
+		<form method="post" action="../custom-inputs/.">
+			<div class="third left">
+				<p><input type="checkbox" name="1" class="styled" /> (styled)</p>
+				<p><input type="checkbox" name="2" class="styled" /> (styled)</p>
+				<p><input type="checkbox" name="3" /> (unstyled)</p>
+				<p><input type="checkbox" name="4" /> (unstyled)</p>
+
+			</div>
+			<div class="third left">
+				<p><input type="radio" name="5" value="1" class="styled" /> (styled)</p>
+				<p><input type="radio" name="5" value="2" class="styled" /> (styled)</p>
+				<p><input type="radio" name="6" value="1" /> (unstyled)</p>
+				<p><input type="radio" name="6" value="2" /> (unstyled)</p>
+
+			</div>
+			<div class="third left">
+				<p><select name="7" class="styled">
+					<option value="1">Option 1</option>
+					<option value="2">Option 2</option>
+					<option value="3">Option 3</option>
+					<option value="4">Option 4</option>
+
+					<option value="5">Option 5</option>
+				</select></p>
+				<p><select name="8" style="width: 190px;">
+					<option value="1">Option 1</option>
+					<option value="2">Option 2</option>
+					<option value="3">Option 3</option>
+					<option value="4">Option 4</option>
+
+					<option value="5">Option 5</option>
+				</select></p>
+			</div>
+			<p class="clear"><input type="submit" value="Submit" style="width: 200px;" /></p>
+		</form>
+		<h2>Examples Using "checked" and "selected"</h2>
+		<ol class="code">
+			<li>&lt;input type="checkbox" class="styled" /&gt;</li>
+
+			<li>&lt;input type="checkbox" class="styled" checked="checked" /&gt;</li>
+		</ol>
+		<p><input type="checkbox" class="styled" /> Unchecked</p>
+		<p style="padding: 0 0 50px;"><input type="checkbox" class="styled" checked="checked" /> Checked</p>
+		<ol class="code">
+			<li>&lt;input type="radio" class="styled" /&gt;</li>
+
+			<li>&lt;input type="radio" class="styled" checked="checked" /&gt;</li>
+		</ol>
+		<p><input type="radio" name="1" class="styled" /> Unchecked</p>
+		<p style="padding: 0 0 50px;"><input type="radio" name="1" class="styled" checked="checked" /> Checked</p>
+		<ol class="code">
+			<li>&lt;input type="radio" class="styled" /&gt;</li>
+
+			<li>&lt;input type="radio" class="styled" /&gt;</li>
+		</ol>
+		<p><input type="radio" name="2" class="styled" /> Unchecked</p>
+		<p style="padding: 0 0 50px;"><input type="radio" name="2" class="styled" /> Unhecked</p>
+		<ol class="code">
+			<li>&lt;select class="styled" /&gt;</li>
+
+			<li>&nbsp;&nbsp;&nbsp;&nbsp;&lt;option&gt;Who&lt;/option&gt;</li>
+			<li>&nbsp;&nbsp;&nbsp;&nbsp;&lt;option selected="selected"&gt;What&lt;/option&gt;</li>
+			<li>&nbsp;&nbsp;&nbsp;&nbsp;&lt;option&gt;When&lt;/option&gt;</li>
+			<li>&nbsp;&nbsp;&nbsp;&nbsp;&lt;option&gt;Where&lt;/option&gt;</li>
+
+			<li>&nbsp;&nbsp;&nbsp;&nbsp;&lt;option&gt;How&lt;/option&gt;</li>
+			<li>&lt;/select&gt;</li>
+		</ol>
+		<p style="padding: 0 0 50px;"><select class="styled" name="who">
+			<option>Who</option>
+			<option selected="selected">What</option>
+
+			<option>When</option>
+			<option>Where</option>
+			<option>How</option>
+		</select></p>
+		<ol class="code">
+			<li>&lt;select class="styled" /&gt;</li>
+			<li>&nbsp;&nbsp;&nbsp;&nbsp;&lt;option&gt;This&lt;/option&gt;</li>
+
+			<li>&nbsp;&nbsp;&nbsp;&nbsp;&lt;option&gt;That&lt;/option&gt;</li>
+			<li>&nbsp;&nbsp;&nbsp;&nbsp;&lt;option&gt;These&lt;/option&gt;</li>
+			<li>&nbsp;&nbsp;&nbsp;&nbsp;&lt;option&gt;Those&lt;/option&gt;</li>
+			<li>&nbsp;&nbsp;&nbsp;&nbsp;&lt;option&gt;Theirs&lt;/option&gt;</li>
+
+			<li>&lt;/select&gt;</li>
+		</ol>
+		<p style="padding: 0 0 50px;"><select class="styled" name="this">
+			<option>This</option>
+			<option>That</option>
+			<option>These</option>
+			<option>Those</option>
+
+			<option>Theirs</option>
+		</select></p>
+		<p class="copyright">Copyright &copy; 2007-2008 Ryan Fait</p>
+	</body>
+</html>

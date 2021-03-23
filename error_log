@@ -1,0 +1,346 @@
+[01-Feb-2016 18:25:04 Etc/GMT] PHP Fatal error:  Call to undefined method General_Db_Model::deleteWhere() in /home/smartshikshya/public_html/smart/engine/application/modules/course/controllers/course.php on line 1030
+[01-Feb-2016 18:25:04 Etc/GMT] PHP Fatal error:  Call to undefined method General_Db_Model::deleteWhere() in /home/smartshikshya/public_html/smart/engine/application/modules/course/controllers/course.php on line 1030
+[01-Feb-2016 18:25:05 Etc/GMT] PHP Fatal error:  Call to undefined method General_Db_Model::deleteWhere() in /home/smartshikshya/public_html/smart/engine/application/modules/course/controllers/course.php on line 1030
+[01-Feb-2016 18:25:12 Etc/GMT] PHP Fatal error:  Call to undefined method General_Db_Model::deleteWhere() in /home/smartshikshya/public_html/smart/engine/application/modules/course/controllers/course.php on line 1030
+[01-Feb-2016 18:25:12 Etc/GMT] PHP Fatal error:  Call to undefined method General_Db_Model::deleteWhere() in /home/smartshikshya/public_html/smart/engine/application/modules/course/controllers/course.php on line 1030
+[01-Feb-2016 18:25:13 Etc/GMT] PHP Fatal error:  Call to undefined method General_Db_Model::deleteWhere() in /home/smartshikshya/public_html/smart/engine/application/modules/course/controllers/course.php on line 1030
+[01-Feb-2016 18:25:13 Etc/GMT] PHP Fatal error:  Call to undefined method General_Db_Model::deleteWhere() in /home/smartshikshya/public_html/smart/engine/application/modules/course/controllers/course.php on line 1030
+[01-Feb-2016 18:25:13 Etc/GMT] PHP Fatal error:  Call to undefined method General_Db_Model::deleteWhere() in /home/smartshikshya/public_html/smart/engine/application/modules/course/controllers/course.php on line 1030
+[01-Feb-2016 18:25:13 Etc/GMT] PHP Fatal error:  Call to undefined method General_Db_Model::deleteWhere() in /home/smartshikshya/public_html/smart/engine/application/modules/course/controllers/course.php on line 1030
+[01-Feb-2016 18:25:13 Etc/GMT] PHP Fatal error:  Call to undefined method General_Db_Model::deleteWhere() in /home/smartshikshya/public_html/smart/engine/application/modules/course/controllers/course.php on line 1030
+[01-Feb-2016 18:25:14 Etc/GMT] PHP Fatal error:  Call to undefined method General_Db_Model::deleteWhere() in /home/smartshikshya/public_html/smart/engine/application/modules/course/controllers/course.php on line 1030
+[01-Feb-2016 18:25:14 Etc/GMT] PHP Fatal error:  Call to undefined method General_Db_Model::deleteWhere() in /home/smartshikshya/public_html/smart/engine/application/modules/course/controllers/course.php on line 1030
+[01-Feb-2016 18:25:14 Etc/GMT] PHP Fatal error:  Call to undefined method General_Db_Model::deleteWhere() in /home/smartshikshya/public_html/smart/engine/application/modules/course/controllers/course.php on line 1030
+[01-Feb-2016 18:25:14 Etc/GMT] PHP Fatal error:  Call to undefined method General_Db_Model::deleteWhere() in /home/smartshikshya/public_html/smart/engine/application/modules/course/controllers/course.php on line 1030
+[01-Feb-2016 18:25:14 Etc/GMT] PHP Fatal error:  Call to undefined method General_Db_Model::deleteWhere() in /home/smartshikshya/public_html/smart/engine/application/modules/course/controllers/course.php on line 1030
+[01-Feb-2016 18:25:14 Etc/GMT] PHP Fatal error:  Call to undefined method General_Db_Model::deleteWhere() in /home/smartshikshya/public_html/smart/engine/application/modules/course/controllers/course.php on line 1030
+[02-Feb-2016 05:07:20 Etc/GMT] PHP Parse error:  syntax error, unexpected end of file in /home/smartshikshya/public_html/smart/engine/application/modules/course/controllers/course.php on line 641
+[02-Feb-2016 06:11:03 Etc/GMT] PHP Fatal error:  Call to undefined method General_Db_Model::updateWhereNot() in /home/smartshikshya/public_html/smart/engine/application/modules/course/controllers/course.php on line 215
+[02-Feb-2016 08:45:06 Etc/GMT] PHP Fatal error:  Call to undefined method General_Db_Model::deleteWhere() in /home/smartshikshya/public_html/smart/engine/application/modules/course/controllers/course.php on line 1043
+[02-Feb-2016 08:45:13 Etc/GMT] PHP Fatal error:  Call to undefined method General_Db_Model::deleteWhere() in /home/smartshikshya/public_html/smart/engine/application/modules/course/controllers/course.php on line 1043
+[26-Mar-2016 07:36:56 Etc/GMT] PHP Fatal error:  Call to undefined method General_Db_Model::get_resultsNine() in /home/smartshikshya/public_html/smart/engine/application/modules/data/controllers/data.php on line 345
+[26-Mar-2016 07:36:56 Etc/GMT] PHP Fatal error:  Call to undefined method General_Db_Model::get_resultsNine() in /home/smartshikshya/public_html/smart/engine/application/modules/data/controllers/data.php on line 345
+[26-Mar-2016 07:36:56 Etc/GMT] PHP Fatal error:  Call to undefined method General_Db_Model::get_resultsNine() in /home/smartshikshya/public_html/smart/engine/application/modules/data/controllers/data.php on line 345
+[26-Mar-2016 07:36:56 Etc/GMT] PHP Fatal error:  Call to undefined method General_Db_Model::get_resultsNine() in /home/smartshikshya/public_html/smart/engine/application/modules/data/controllers/data.php on line 345
+[26-Mar-2016 07:36:56 Etc/GMT] PHP Fatal error:  Call to undefined method General_Db_Model::get_resultsNine() in /home/smartshikshya/public_html/smart/engine/application/modules/data/controllers/data.php on line 345
+[26-Mar-2016 07:36:56 Etc/GMT] PHP Fatal error:  Call to undefined method General_Db_Model::get_resultsNine() in /home/smartshikshya/public_html/smart/engine/application/modules/data/controllers/data.php on line 345
+[26-Mar-2016 07:36:57 Etc/GMT] PHP Fatal error:  Call to undefined method General_Db_Model::get_resultsNine() in /home/smartshikshya/public_html/smart/engine/application/modules/data/controllers/data.php on line 345
+[26-Mar-2016 07:36:57 Etc/GMT] PHP Fatal error:  Call to undefined method General_Db_Model::get_resultsNine() in /home/smartshikshya/public_html/smart/engine/application/modules/data/controllers/data.php on line 345
+[26-Mar-2016 07:36:59 Etc/GMT] PHP Fatal error:  Call to undefined method General_Db_Model::get_resultsNine() in /home/smartshikshya/public_html/smart/engine/application/modules/data/controllers/data.php on line 345
+[26-Mar-2016 07:36:59 Etc/GMT] PHP Fatal error:  Call to undefined method General_Db_Model::get_resultsNine() in /home/smartshikshya/public_html/smart/engine/application/modules/data/controllers/data.php on line 345
+[26-Mar-2016 07:37:36 Etc/GMT] PHP Fatal error:  Call to undefined method General_Db_Model::get_resultsNine() in /home/smartshikshya/public_html/smart/engine/application/modules/data/controllers/data.php on line 345
+[26-Mar-2016 07:39:29 Etc/GMT] PHP Fatal error:  Call to undefined method General_Db_Model::get_resultsNine() in /home/smartshikshya/public_html/smart/engine/application/modules/data/controllers/data.php on line 345
+[26-Mar-2016 07:42:53 Etc/GMT] PHP Fatal error:  Call to undefined method General_Db_Model::get_resultsNine() in /home/smartshikshya/public_html/smart/engine/application/modules/data/controllers/data.php on line 345
+[26-Mar-2016 07:42:53 Etc/GMT] PHP Fatal error:  Call to undefined method General_Db_Model::get_resultsNine() in /home/smartshikshya/public_html/smart/engine/application/modules/data/controllers/data.php on line 345
+[26-Mar-2016 07:42:53 Etc/GMT] PHP Fatal error:  Call to undefined method General_Db_Model::get_resultsNine() in /home/smartshikshya/public_html/smart/engine/application/modules/data/controllers/data.php on line 345
+[26-Mar-2016 07:42:54 Etc/GMT] PHP Fatal error:  Call to undefined method General_Db_Model::get_resultsNine() in /home/smartshikshya/public_html/smart/engine/application/modules/data/controllers/data.php on line 345
+[26-Mar-2016 07:42:54 Etc/GMT] PHP Fatal error:  Call to undefined method General_Db_Model::get_resultsNine() in /home/smartshikshya/public_html/smart/engine/application/modules/data/controllers/data.php on line 345
+[26-Mar-2016 07:42:54 Etc/GMT] PHP Fatal error:  Call to undefined method General_Db_Model::get_resultsNine() in /home/smartshikshya/public_html/smart/engine/application/modules/data/controllers/data.php on line 345
+[26-Mar-2016 07:43:22 Etc/GMT] PHP Fatal error:  Call to undefined method General_Db_Model::get_resultsNine() in /home/smartshikshya/public_html/smart/engine/application/modules/data/controllers/data.php on line 345
+[26-Mar-2016 07:43:22 Etc/GMT] PHP Fatal error:  Call to undefined method General_Db_Model::get_resultsNine() in /home/smartshikshya/public_html/smart/engine/application/modules/data/controllers/data.php on line 345
+[26-Mar-2016 07:43:22 Etc/GMT] PHP Fatal error:  Call to undefined method General_Db_Model::get_resultsNine() in /home/smartshikshya/public_html/smart/engine/application/modules/data/controllers/data.php on line 345
+[26-Mar-2016 07:43:22 Etc/GMT] PHP Fatal error:  Call to undefined method General_Db_Model::get_resultsNine() in /home/smartshikshya/public_html/smart/engine/application/modules/data/controllers/data.php on line 345
+[26-Mar-2016 07:43:22 Etc/GMT] PHP Fatal error:  Call to undefined method General_Db_Model::get_resultsNine() in /home/smartshikshya/public_html/smart/engine/application/modules/data/controllers/data.php on line 345
+[26-Mar-2016 07:43:22 Etc/GMT] PHP Fatal error:  Call to undefined method General_Db_Model::get_resultsNine() in /home/smartshikshya/public_html/smart/engine/application/modules/data/controllers/data.php on line 345
+[26-Mar-2016 07:43:23 Etc/GMT] PHP Fatal error:  Call to undefined method General_Db_Model::get_resultsNine() in /home/smartshikshya/public_html/smart/engine/application/modules/data/controllers/data.php on line 345
+[26-Mar-2016 07:43:23 Etc/GMT] PHP Fatal error:  Call to undefined method General_Db_Model::get_resultsNine() in /home/smartshikshya/public_html/smart/engine/application/modules/data/controllers/data.php on line 345
+[26-Mar-2016 07:43:23 Etc/GMT] PHP Fatal error:  Call to undefined method General_Db_Model::get_resultsNine() in /home/smartshikshya/public_html/smart/engine/application/modules/data/controllers/data.php on line 345
+[26-Mar-2016 07:43:23 Etc/GMT] PHP Fatal error:  Call to undefined method General_Db_Model::get_resultsNine() in /home/smartshikshya/public_html/smart/engine/application/modules/data/controllers/data.php on line 345
+[26-Mar-2016 07:43:23 Etc/GMT] PHP Fatal error:  Call to undefined method General_Db_Model::get_resultsNine() in /home/smartshikshya/public_html/smart/engine/application/modules/data/controllers/data.php on line 345
+[26-Mar-2016 07:43:23 Etc/GMT] PHP Fatal error:  Call to undefined method General_Db_Model::get_resultsNine() in /home/smartshikshya/public_html/smart/engine/application/modules/data/controllers/data.php on line 345
+[26-Mar-2016 07:43:24 Etc/GMT] PHP Fatal error:  Call to undefined method General_Db_Model::get_resultsNine() in /home/smartshikshya/public_html/smart/engine/application/modules/data/controllers/data.php on line 345
+[26-Mar-2016 07:43:24 Etc/GMT] PHP Fatal error:  Call to undefined method General_Db_Model::get_resultsNine() in /home/smartshikshya/public_html/smart/engine/application/modules/data/controllers/data.php on line 345
+[26-Mar-2016 07:43:24 Etc/GMT] PHP Fatal error:  Call to undefined method General_Db_Model::get_resultsNine() in /home/smartshikshya/public_html/smart/engine/application/modules/data/controllers/data.php on line 345
+[26-Mar-2016 07:44:32 Etc/GMT] PHP Parse error:  syntax error, unexpected end of file in /home/smartshikshya/public_html/smart/engine/application/modules/data/controllers/data.php on line 332
+[26-Mar-2016 07:46:04 Etc/GMT] PHP Fatal error:  Call to undefined method General_Db_Model::get_resultsNine() in /home/smartshikshya/public_html/smart/engine/application/modules/data/controllers/data.php on line 346
+[26-Mar-2016 07:46:05 Etc/GMT] PHP Fatal error:  Call to undefined method General_Db_Model::get_resultsNine() in /home/smartshikshya/public_html/smart/engine/application/modules/data/controllers/data.php on line 346
+[26-Mar-2016 07:46:05 Etc/GMT] PHP Fatal error:  Call to undefined method General_Db_Model::get_resultsNine() in /home/smartshikshya/public_html/smart/engine/application/modules/data/controllers/data.php on line 346
+[26-Mar-2016 07:46:07 Etc/GMT] PHP Fatal error:  Call to undefined method General_Db_Model::get_resultsNine() in /home/smartshikshya/public_html/smart/engine/application/modules/data/controllers/data.php on line 346
+[26-Mar-2016 07:46:57 Etc/GMT] PHP Fatal error:  Call to undefined method General_Db_Model::get_resultsNine() in /home/smartshikshya/public_html/smart/engine/application/modules/data/controllers/data.php on line 346
+[26-Mar-2016 07:46:59 Etc/GMT] PHP Fatal error:  Call to undefined method General_Db_Model::get_resultsNine() in /home/smartshikshya/public_html/smart/engine/application/modules/data/controllers/data.php on line 346
+[26-Mar-2016 07:47:00 Etc/GMT] PHP Fatal error:  Call to undefined method General_Db_Model::get_resultsNine() in /home/smartshikshya/public_html/smart/engine/application/modules/data/controllers/data.php on line 346
+[26-Mar-2016 07:47:02 Etc/GMT] PHP Parse error:  syntax error, unexpected end of file, expecting variable (T_VARIABLE) or '$' in /home/smartshikshya/public_html/smart/engine/application/modules/data/controllers/data.php on line 333
+[26-Mar-2016 07:47:05 Etc/GMT] PHP Fatal error:  Call to undefined method General_Db_Model::get_resultsNine() in /home/smartshikshya/public_html/smart/engine/application/modules/data/controllers/data.php on line 346
+[26-Mar-2016 07:47:07 Etc/GMT] PHP Fatal error:  Call to undefined method General_Db_Model::get_resultsNine() in /home/smartshikshya/public_html/smart/engine/application/modules/data/controllers/data.php on line 346
+[26-Mar-2016 07:47:24 Etc/GMT] PHP Parse error:  syntax error, unexpected end of file, expecting variable (T_VARIABLE) or '$' in /home/smartshikshya/public_html/smart/engine/application/modules/data/controllers/data.php on line 333
+[26-Mar-2016 07:47:27 Etc/GMT] PHP Fatal error:  Call to undefined method General_Db_Model::get_resultsNine() in /home/smartshikshya/public_html/smart/engine/application/modules/data/controllers/data.php on line 346
+[26-Mar-2016 07:47:28 Etc/GMT] PHP Fatal error:  Call to undefined method General_Db_Model::get_resultsNine() in /home/smartshikshya/public_html/smart/engine/application/modules/data/controllers/data.php on line 346
+[26-Mar-2016 07:47:29 Etc/GMT] PHP Fatal error:  Call to undefined method General_Db_Model::get_resultsNine() in /home/smartshikshya/public_html/smart/engine/application/modules/data/controllers/data.php on line 346
+[26-Mar-2016 07:55:05 Etc/GMT] PHP Parse error:  syntax error, unexpected end of file, expecting variable (T_VARIABLE) or '$' in /home/smartshikshya/public_html/smart/engine/application/modules/data/controllers/data.php on line 333
+[05-Apr-2016 06:59:28 Etc/GMT] PHP Fatal error:  Call to undefined method General_Db_Model::get_resultsNine() in /home/smartshikshya/public_html/smart/engine/application/modules/data/controllers/data.php on line 394
+[05-Apr-2016 17:40:08 Etc/GMT] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/smartshikshya/public_html/smart/engine/application/config/ion_auth.php on line 80
+[05-Apr-2016 17:40:08 Etc/GMT] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/smartshikshya/public_html/smart/engine/application/config/ion_auth.php on line 80
+[05-Apr-2016 17:40:09 Etc/GMT] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/smartshikshya/public_html/smart/engine/application/config/ion_auth.php on line 80
+[05-Apr-2016 17:40:09 Etc/GMT] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/smartshikshya/public_html/smart/engine/application/config/ion_auth.php on line 80
+[05-Apr-2016 17:40:09 Etc/GMT] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/smartshikshya/public_html/smart/engine/application/config/ion_auth.php on line 80
+[05-Apr-2016 17:40:09 Etc/GMT] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/smartshikshya/public_html/smart/engine/application/config/ion_auth.php on line 80
+[05-Apr-2016 17:40:09 Etc/GMT] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/smartshikshya/public_html/smart/engine/application/config/ion_auth.php on line 80
+[05-Apr-2016 17:40:09 Etc/GMT] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/smartshikshya/public_html/smart/engine/application/config/ion_auth.php on line 80
+[05-Apr-2016 17:40:09 Etc/GMT] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/smartshikshya/public_html/smart/engine/application/config/ion_auth.php on line 80
+[05-Apr-2016 17:40:09 Etc/GMT] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/smartshikshya/public_html/smart/engine/application/config/ion_auth.php on line 80
+[05-Apr-2016 17:40:09 Etc/GMT] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/smartshikshya/public_html/smart/engine/application/config/ion_auth.php on line 80
+[05-Apr-2016 17:40:09 Etc/GMT] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/smartshikshya/public_html/smart/engine/application/config/ion_auth.php on line 80
+[05-Apr-2016 17:40:09 Etc/GMT] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/smartshikshya/public_html/smart/engine/application/config/ion_auth.php on line 80
+[05-Apr-2016 17:40:09 Etc/GMT] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/smartshikshya/public_html/smart/engine/application/config/ion_auth.php on line 80
+[05-Apr-2016 17:40:09 Etc/GMT] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/smartshikshya/public_html/smart/engine/application/config/ion_auth.php on line 80
+[05-Apr-2016 17:40:10 Etc/GMT] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/smartshikshya/public_html/smart/engine/application/config/ion_auth.php on line 80
+[05-Apr-2016 17:40:10 Etc/GMT] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/smartshikshya/public_html/smart/engine/application/config/ion_auth.php on line 80
+[05-Apr-2016 17:40:10 Etc/GMT] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/smartshikshya/public_html/smart/engine/application/config/ion_auth.php on line 80
+[05-Apr-2016 17:40:10 Etc/GMT] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/smartshikshya/public_html/smart/engine/application/config/ion_auth.php on line 80
+[05-Apr-2016 17:40:10 Etc/GMT] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/smartshikshya/public_html/smart/engine/application/config/ion_auth.php on line 80
+[05-Apr-2016 17:40:11 Etc/GMT] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/smartshikshya/public_html/smart/engine/application/config/ion_auth.php on line 80
+[05-Apr-2016 17:40:11 Etc/GMT] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/smartshikshya/public_html/smart/engine/application/config/ion_auth.php on line 80
+[05-Apr-2016 17:40:11 Etc/GMT] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/smartshikshya/public_html/smart/engine/application/config/ion_auth.php on line 80
+[05-Apr-2016 17:40:11 Etc/GMT] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/smartshikshya/public_html/smart/engine/application/config/ion_auth.php on line 80
+[05-Apr-2016 17:40:11 Etc/GMT] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/smartshikshya/public_html/smart/engine/application/config/ion_auth.php on line 80
+[05-Apr-2016 18:03:04 Etc/GMT] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/smartshikshya/public_html/smart/engine/application/config/ion_auth.php on line 80
+[06-Apr-2016 06:07:58 Etc/GMT] PHP Fatal error:  Call to undefined method General_Db_Model::get_resultsNine() in /home/smartshikshya/public_html/smart/engine/application/modules/data/controllers/data.php on line 385
+[06-Apr-2016 06:29:57 Etc/GMT] PHP Fatal error:  Call to undefined method General_Db_Model::get_resultsNine() in /home/smartshikshya/public_html/smart/engine/application/modules/data/controllers/data.php on line 385
+[06-Apr-2016 11:42:46 Etc/GMT] PHP Fatal error:  Class 'IntlDateFormatter' not found in /home/smartshikshya/public_html/smart/engine/application/modules/data/views/add_question.php on line 1048
+[06-Apr-2016 11:43:51 Etc/GMT] PHP Fatal error:  Class 'IntlDateFormatter' not found in /home/smartshikshya/public_html/smart/engine/application/modules/data/views/add_question.php on line 1048
+[06-Apr-2016 11:43:51 Etc/GMT] PHP Fatal error:  Class 'IntlDateFormatter' not found in /home/smartshikshya/public_html/smart/engine/application/modules/data/views/add_question.php on line 1048
+[06-Apr-2016 11:43:52 Etc/GMT] PHP Fatal error:  Class 'IntlDateFormatter' not found in /home/smartshikshya/public_html/smart/engine/application/modules/data/views/add_question.php on line 1048
+[06-Apr-2016 11:43:52 Etc/GMT] PHP Fatal error:  Class 'IntlDateFormatter' not found in /home/smartshikshya/public_html/smart/engine/application/modules/data/views/add_question.php on line 1048
+[06-Apr-2016 11:43:53 Etc/GMT] PHP Fatal error:  Class 'IntlDateFormatter' not found in /home/smartshikshya/public_html/smart/engine/application/modules/data/views/add_question.php on line 1048
+[06-Apr-2016 11:43:53 Etc/GMT] PHP Fatal error:  Class 'IntlDateFormatter' not found in /home/smartshikshya/public_html/smart/engine/application/modules/data/views/add_question.php on line 1048
+[06-Apr-2016 11:43:53 Etc/GMT] PHP Fatal error:  Class 'IntlDateFormatter' not found in /home/smartshikshya/public_html/smart/engine/application/modules/data/views/add_question.php on line 1048
+[06-Apr-2016 11:43:53 Etc/GMT] PHP Fatal error:  Class 'IntlDateFormatter' not found in /home/smartshikshya/public_html/smart/engine/application/modules/data/views/add_question.php on line 1048
+[06-Apr-2016 11:43:53 Etc/GMT] PHP Fatal error:  Class 'IntlDateFormatter' not found in /home/smartshikshya/public_html/smart/engine/application/modules/data/views/add_question.php on line 1048
+[06-Apr-2016 11:43:54 Etc/GMT] PHP Fatal error:  Class 'IntlDateFormatter' not found in /home/smartshikshya/public_html/smart/engine/application/modules/data/views/add_question.php on line 1048
+[06-Apr-2016 11:43:54 Etc/GMT] PHP Fatal error:  Class 'IntlDateFormatter' not found in /home/smartshikshya/public_html/smart/engine/application/modules/data/views/add_question.php on line 1048
+[06-Apr-2016 11:44:12 Etc/GMT] PHP Fatal error:  Class 'IntlDateFormatter' not found in /home/smartshikshya/public_html/smart/engine/application/modules/data/views/add_question.php on line 1048
+[06-Apr-2016 15:07:31 Etc/GMT] PHP Fatal error:  Call to undefined method General_Db_Model::get_resultsNine() in /home/smartshikshya/public_html/smart/engine/application/modules/data/controllers/data.php on line 385
+[06-Apr-2016 17:40:49 Etc/GMT] PHP Fatal error:  Call to undefined method General_Db_Model::get_resultsNine() in /home/smartshikshya/public_html/smart/engine/application/modules/data/controllers/data.php on line 385
+[06-Apr-2016 17:57:06 Etc/GMT] PHP Fatal error:  Call to undefined method General_Db_Model::get_resultsNine() in /home/smartshikshya/public_html/smart/engine/application/modules/data/controllers/data.php on line 385
+[06-Apr-2016 17:57:41 Etc/GMT] PHP Fatal error:  Call to undefined method General_Db_Model::get_resultsNine() in /home/smartshikshya/public_html/smart/engine/application/modules/data/controllers/data.php on line 386
+[06-Apr-2016 17:57:42 Etc/GMT] PHP Fatal error:  Call to undefined method General_Db_Model::get_resultsNine() in /home/smartshikshya/public_html/smart/engine/application/modules/data/controllers/data.php on line 386
+[06-Apr-2016 17:57:42 Etc/GMT] PHP Fatal error:  Call to undefined method General_Db_Model::get_resultsNine() in /home/smartshikshya/public_html/smart/engine/application/modules/data/controllers/data.php on line 386
+[06-Apr-2016 17:57:42 Etc/GMT] PHP Fatal error:  Call to undefined method General_Db_Model::get_resultsNine() in /home/smartshikshya/public_html/smart/engine/application/modules/data/controllers/data.php on line 386
+[06-Apr-2016 17:58:41 Etc/GMT] PHP Fatal error:  Call to undefined method General_Db_Model::get_resultsNine() in /home/smartshikshya/public_html/smart/engine/application/modules/data/controllers/data.php on line 386
+[06-Apr-2016 18:03:25 Etc/GMT] PHP Fatal error:  Call to undefined method General_Db_Model::get_resultsNine() in /home/smartshikshya/public_html/smart/engine/application/modules/data/controllers/data.php on line 387
+[06-Apr-2016 18:04:10 Etc/GMT] PHP Fatal error:  Call to undefined method General_Db_Model::get_resultsNine() in /home/smartshikshya/public_html/smart/engine/application/modules/data/controllers/data.php on line 388
+[06-Apr-2016 18:04:10 Etc/GMT] PHP Fatal error:  Call to undefined method General_Db_Model::get_resultsNine() in /home/smartshikshya/public_html/smart/engine/application/modules/data/controllers/data.php on line 388
+[06-Apr-2016 18:04:10 Etc/GMT] PHP Fatal error:  Call to undefined method General_Db_Model::get_resultsNine() in /home/smartshikshya/public_html/smart/engine/application/modules/data/controllers/data.php on line 388
+[06-Apr-2016 18:04:10 Etc/GMT] PHP Fatal error:  Call to undefined method General_Db_Model::get_resultsNine() in /home/smartshikshya/public_html/smart/engine/application/modules/data/controllers/data.php on line 388
+[06-Apr-2016 18:04:11 Etc/GMT] PHP Fatal error:  Call to undefined method General_Db_Model::get_resultsNine() in /home/smartshikshya/public_html/smart/engine/application/modules/data/controllers/data.php on line 388
+[06-Apr-2016 18:04:12 Etc/GMT] PHP Fatal error:  Call to undefined method General_Db_Model::get_resultsNine() in /home/smartshikshya/public_html/smart/engine/application/modules/data/controllers/data.php on line 388
+[06-Apr-2016 18:04:34 Etc/GMT] PHP Fatal error:  Call to undefined method General_Db_Model::get_resultsNine() in /home/smartshikshya/public_html/smart/engine/application/modules/data/controllers/data.php on line 388
+[06-Apr-2016 18:04:34 Etc/GMT] PHP Fatal error:  Call to undefined method General_Db_Model::get_resultsNine() in /home/smartshikshya/public_html/smart/engine/application/modules/data/controllers/data.php on line 388
+[06-Apr-2016 18:04:34 Etc/GMT] PHP Fatal error:  Call to undefined method General_Db_Model::get_resultsNine() in /home/smartshikshya/public_html/smart/engine/application/modules/data/controllers/data.php on line 388
+[06-Apr-2016 18:04:34 Etc/GMT] PHP Fatal error:  Call to undefined method General_Db_Model::get_resultsNine() in /home/smartshikshya/public_html/smart/engine/application/modules/data/controllers/data.php on line 388
+[06-Apr-2016 18:04:34 Etc/GMT] PHP Fatal error:  Call to undefined method General_Db_Model::get_resultsNine() in /home/smartshikshya/public_html/smart/engine/application/modules/data/controllers/data.php on line 388
+[06-Apr-2016 18:04:35 Etc/GMT] PHP Fatal error:  Call to undefined method General_Db_Model::get_resultsNine() in /home/smartshikshya/public_html/smart/engine/application/modules/data/controllers/data.php on line 388
+[06-Apr-2016 18:04:35 Etc/GMT] PHP Fatal error:  Call to undefined method General_Db_Model::get_resultsNine() in /home/smartshikshya/public_html/smart/engine/application/modules/data/controllers/data.php on line 388
+[06-Apr-2016 18:04:36 Etc/GMT] PHP Fatal error:  Call to undefined method General_Db_Model::get_resultsNine() in /home/smartshikshya/public_html/smart/engine/application/modules/data/controllers/data.php on line 388
+[06-Apr-2016 18:04:38 Etc/GMT] PHP Fatal error:  Call to undefined method General_Db_Model::get_resultsNine() in /home/smartshikshya/public_html/smart/engine/application/modules/data/controllers/data.php on line 388
+[07-Apr-2016 07:29:44 Etc/GMT] PHP Fatal error:  Call to undefined method General_Db_Model::get_resultsNine() in /home/smartshikshya/public_html/smart/engine/application/modules/data/controllers/data.php on line 388
+[07-Apr-2016 07:30:56 Etc/GMT] PHP Fatal error:  Call to undefined method General_Db_Model::get_resultsNine() in /home/smartshikshya/public_html/smart/engine/application/modules/data/controllers/data.php on line 388
+[07-Apr-2016 07:36:06 Etc/GMT] PHP Fatal error:  Call to undefined method General_Db_Model::get_resultsNine() in /home/smartshikshya/public_html/smart/engine/application/modules/data/controllers/data.php on line 388
+[07-Apr-2016 07:48:17 Etc/GMT] PHP Fatal error:  Call to undefined method General_Db_Model::get_resultsNine() in /home/smartshikshya/public_html/smart/engine/application/modules/data/controllers/data.php on line 388
+[07-Apr-2016 08:55:17 Etc/GMT] PHP Fatal error:  Call to undefined method General_Db_Model::get_resultsNine() in /home/smartshikshya/public_html/smart/engine/application/modules/data/controllers/data.php on line 388
+[11-Apr-2016 09:28:45 Etc/GMT] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/smartshikshya/public_html/smart/engine/application/config/ion_auth.php on line 181
+[11-Apr-2016 16:46:09 Etc/GMT] PHP Parse error:  syntax error, unexpected end of file in /home/smartshikshya/public_html/smart/engine/application/libraries/Ion_auth.php on line 359
+[11-Apr-2016 18:00:21 Etc/GMT] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/smartshikshya/public_html/smart/engine/application/config/ion_auth.php on line 88
+[11-Apr-2016 18:00:22 Etc/GMT] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/smartshikshya/public_html/smart/engine/application/config/ion_auth.php on line 88
+[11-Apr-2016 18:00:22 Etc/GMT] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/smartshikshya/public_html/smart/engine/application/config/ion_auth.php on line 88
+[11-Apr-2016 18:00:23 Etc/GMT] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/smartshikshya/public_html/smart/engine/application/config/ion_auth.php on line 88
+[11-Apr-2016 18:00:23 Etc/GMT] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/smartshikshya/public_html/smart/engine/application/config/ion_auth.php on line 88
+[16-Apr-2016 11:40:38 Etc/GMT] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/smartshikshya/public_html/smart/engine/application/config/ion_auth.php on line 88
+[21-Apr-2016 04:55:48 Etc/GMT] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/smartshikshya/public_html/smart/engine/application/config/ion_auth.php on line 88
+[21-Apr-2016 04:55:48 Etc/GMT] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/smartshikshya/public_html/smart/engine/application/config/ion_auth.php on line 88
+[23-Apr-2016 12:52:29 Etc/GMT] PHP Warning:  Unterminated comment starting line 468 in /home/smartshikshya/public_html/smart/engine/application/modules/signin/controllers/signin.php on line 468
+[23-Apr-2016 12:52:29 Etc/GMT] PHP Parse error:  syntax error, unexpected end of file, expecting function (T_FUNCTION) in /home/smartshikshya/public_html/smart/engine/application/modules/signin/controllers/signin.php on line 618
+[10-May-2016 11:49:09 Etc/GMT] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/smartshikshya/public_html/smart/engine/application/config/ion_auth.php on line 88
+[10-May-2016 11:49:09 Etc/GMT] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/smartshikshya/public_html/smart/engine/application/config/ion_auth.php on line 88
+[10-May-2016 11:49:10 Etc/GMT] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/smartshikshya/public_html/smart/engine/application/config/ion_auth.php on line 88
+[10-May-2016 11:49:10 Etc/GMT] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/smartshikshya/public_html/smart/engine/application/config/ion_auth.php on line 88
+[10-May-2016 11:49:10 Etc/GMT] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/smartshikshya/public_html/smart/engine/application/config/ion_auth.php on line 88
+[10-May-2016 11:49:10 Etc/GMT] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/smartshikshya/public_html/smart/engine/application/config/ion_auth.php on line 88
+[10-May-2016 11:49:10 Etc/GMT] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/smartshikshya/public_html/smart/engine/application/config/ion_auth.php on line 88
+[10-May-2016 11:49:10 Etc/GMT] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/smartshikshya/public_html/smart/engine/application/config/ion_auth.php on line 88
+[10-May-2016 11:49:10 Etc/GMT] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/smartshikshya/public_html/smart/engine/application/config/ion_auth.php on line 88
+[10-May-2016 11:49:10 Etc/GMT] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/smartshikshya/public_html/smart/engine/application/config/ion_auth.php on line 88
+[10-May-2016 11:49:11 Etc/GMT] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/smartshikshya/public_html/smart/engine/application/config/ion_auth.php on line 88
+[10-May-2016 11:49:11 Etc/GMT] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/smartshikshya/public_html/smart/engine/application/config/ion_auth.php on line 88
+[10-May-2016 19:29:40 Etc/GMT] PHP Fatal error:  require_once(): Failed opening required 'OAuth.php' (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/smartshikshya/public_html/smart/engine/application/libraries/Linkedin.php on line 74
+[10-May-2016 19:30:56 Etc/GMT] PHP Fatal error:  Call to undefined method General_Db_Model::get_row() in /home/smartshikshya/public_html/smart/engine/application/modules/linkedin_signup/controllers/linkedin_signup.php on line 136
+[10-May-2016 19:32:12 Etc/GMT] PHP Fatal error:  Uncaught exception 'LinkedInException' with message 'LinkedIn->retrieveTokenAccess(): bad data passed, string type is required for $token, $secret and $verifier.' in /home/smartshikshya/public_html/smart/engine/application/libraries/Linkedin.php:1808
+Stack trace:
+#0 /home/smartshikshya/public_html/smart/engine/application/modules/linkedin_signup/controllers/linkedin_signup.php(80): LinkedIn->retrieveTokenAccess(false, false, '52085')
+#1 [internal function]: Linkedin_signup->data()
+#2 /home/smartshikshya/public_html/smart/engine/system/core/CodeIgniter.php(359): call_user_func_array(Array, Array)
+#3 /home/smartshikshya/public_html/smart/index.php(203): require_once('/home/smartshik...')
+#4 {main}
+  thrown in /home/smartshikshya/public_html/smart/engine/application/libraries/Linkedin.php on line 1808
+[11-May-2016 02:02:03 Etc/GMT] PHP Fatal error:  Call to undefined method General_Db_Model::get_row() in /home/smartshikshya/public_html/smart/engine/application/modules/linkedin_signup/controllers/linkedin_signup.php on line 136
+[11-May-2016 02:20:20 Etc/GMT] PHP Fatal error:  Call to undefined method General_Db_Model::get_row() in /home/smartshikshya/public_html/smart/engine/application/modules/linkedin_signup/controllers/linkedin_signup.php on line 136
+[11-May-2016 02:22:18 Etc/GMT] PHP Fatal error:  Call to undefined method General_Db_Model::get_row() in /home/smartshikshya/public_html/smart/engine/application/modules/linkedin_signup/controllers/linkedin_signup.php on line 136
+[11-May-2016 02:27:17 Etc/GMT] PHP Fatal error:  Uncaught exception 'LinkedInException' with message 'LinkedIn->retrieveTokenAccess(): bad data passed, string type is required for $token, $secret and $verifier.' in /home/smartshikshya/public_html/smart/engine/application/libraries/Linkedin.php:1808
+Stack trace:
+#0 /home/smartshikshya/public_html/smart/engine/application/modules/linkedin_signup/controllers/linkedin_signup.php(82): LinkedIn->retrieveTokenAccess(false, false, '25553')
+#1 [internal function]: Linkedin_signup->data()
+#2 /home/smartshikshya/public_html/smart/engine/system/core/CodeIgniter.php(359): call_user_func_array(Array, Array)
+#3 /home/smartshikshya/public_html/smart/index.php(203): require_once('/home/smartshik...')
+#4 {main}
+  thrown in /home/smartshikshya/public_html/smart/engine/application/libraries/Linkedin.php on line 1808
+[11-May-2016 02:27:25 Etc/GMT] PHP Fatal error:  Uncaught exception 'LinkedInException' with message 'LinkedIn->retrieveTokenAccess(): bad data passed, string type is required for $token, $secret and $verifier.' in /home/smartshikshya/public_html/smart/engine/application/libraries/Linkedin.php:1808
+Stack trace:
+#0 /home/smartshikshya/public_html/smart/engine/application/modules/linkedin_signup/controllers/linkedin_signup.php(82): LinkedIn->retrieveTokenAccess(false, false, '25553')
+#1 [internal function]: Linkedin_signup->data()
+#2 /home/smartshikshya/public_html/smart/engine/system/core/CodeIgniter.php(359): call_user_func_array(Array, Array)
+#3 /home/smartshikshya/public_html/smart/index.php(203): require_once('/home/smartshik...')
+#4 {main}
+  thrown in /home/smartshikshya/public_html/smart/engine/application/libraries/Linkedin.php on line 1808
+[11-May-2016 02:40:22 Etc/GMT] PHP Fatal error:  Call to undefined method General_Db_Model::get_row() in /home/smartshikshya/public_html/smart/engine/application/modules/linkedin_signup/controllers/linkedin_signup.php on line 144
+[11-May-2016 02:41:13 Etc/GMT] PHP Fatal error:  Call to undefined method General_Db_Model::get_row() in /home/smartshikshya/public_html/smart/engine/application/modules/linkedin_signup/controllers/linkedin_signup.php on line 144
+[14-May-2016 11:12:55 Etc/GMT] PHP Fatal error:  Uncaught exception 'LinkedInException' with message 'LinkedIn->retrieveTokenAccess(): bad data passed, string type is required for $token, $secret and $verifier.' in /home/smartshikshya/public_html/smart/engine/application/libraries/Linkedin.php:1808
+Stack trace:
+#0 /home/smartshikshya/public_html/smart/engine/application/modules/linkedin_signup/controllers/linkedin_signup.php(67): LinkedIn->retrieveTokenAccess('78--17c77781-c4...', 'de178598-4bf1-4...', false)
+#1 [internal function]: Linkedin_signup->data()
+#2 /home/smartshikshya/public_html/smart/engine/system/core/CodeIgniter.php(359): call_user_func_array(Array, Array)
+#3 /home/smartshikshya/public_html/smart/index.php(203): require_once('/home/smartshik...')
+#4 {main}
+  thrown in /home/smartshikshya/public_html/smart/engine/application/libraries/Linkedin.php on line 1808
+[15-May-2016 15:29:13 Etc/GMT] PHP Parse error:  syntax error, unexpected '}' in /home/smartshikshya/public_html/smart/engine/application/modules/home/views/login-fillup.php on line 969
+[15-May-2016 15:29:34 Etc/GMT] PHP Parse error:  syntax error, unexpected '}' in /home/smartshikshya/public_html/smart/engine/application/modules/home/views/login-fillup.php on line 969
+[15-May-2016 15:33:06 Etc/GMT] PHP Parse error:  syntax error, unexpected '}' in /home/smartshikshya/public_html/smart/engine/application/modules/home/views/login-fillup.php on line 969
+[16-May-2016 07:36:40 Etc/GMT] PHP Parse error:  syntax error, unexpected '}' in /home/smartshikshya/public_html/smart/engine/application/modules/home/views/login-fillup.php on line 969
+[16-May-2016 07:36:46 Etc/GMT] PHP Parse error:  syntax error, unexpected '}' in /home/smartshikshya/public_html/smart/engine/application/modules/home/views/login-fillup.php on line 969
+[16-May-2016 07:36:48 Etc/GMT] PHP Parse error:  syntax error, unexpected '}' in /home/smartshikshya/public_html/smart/engine/application/modules/home/views/login-fillup.php on line 969
+[16-May-2016 07:36:48 Etc/GMT] PHP Parse error:  syntax error, unexpected '}' in /home/smartshikshya/public_html/smart/engine/application/modules/home/views/login-fillup.php on line 969
+[16-May-2016 15:45:39 Etc/GMT] PHP Parse error:  syntax error, unexpected '}' in /home/smartshikshya/public_html/smart/engine/application/modules/home/views/login-fillup.php on line 969
+[16-May-2016 16:03:01 Etc/GMT] PHP Parse error:  syntax error, unexpected '}' in /home/smartshikshya/public_html/smart/engine/application/modules/home/views/login-fillup.php on line 969
+[16-May-2016 16:03:02 Etc/GMT] PHP Parse error:  syntax error, unexpected '}' in /home/smartshikshya/public_html/smart/engine/application/modules/home/views/login-fillup.php on line 969
+[16-May-2016 16:03:04 Etc/GMT] PHP Parse error:  syntax error, unexpected '}' in /home/smartshikshya/public_html/smart/engine/application/modules/home/views/login-fillup.php on line 969
+[16-May-2016 16:03:06 Etc/GMT] PHP Parse error:  syntax error, unexpected '}' in /home/smartshikshya/public_html/smart/engine/application/modules/home/views/login-fillup.php on line 969
+[16-May-2016 16:03:07 Etc/GMT] PHP Parse error:  syntax error, unexpected '}' in /home/smartshikshya/public_html/smart/engine/application/modules/home/views/login-fillup.php on line 969
+[16-May-2016 16:03:58 Etc/GMT] PHP Parse error:  syntax error, unexpected '}' in /home/smartshikshya/public_html/smart/engine/application/modules/home/views/login-fillup.php on line 972
+[16-May-2016 16:03:59 Etc/GMT] PHP Parse error:  syntax error, unexpected '}' in /home/smartshikshya/public_html/smart/engine/application/modules/home/views/login-fillup.php on line 972
+[16-May-2016 16:04:01 Etc/GMT] PHP Parse error:  syntax error, unexpected '}' in /home/smartshikshya/public_html/smart/engine/application/modules/home/views/login-fillup.php on line 972
+[16-May-2016 16:04:02 Etc/GMT] PHP Parse error:  syntax error, unexpected '}' in /home/smartshikshya/public_html/smart/engine/application/modules/home/views/login-fillup.php on line 972
+[16-May-2016 18:46:32 Etc/GMT] PHP Parse error:  syntax error, unexpected '}' in /home/smartshikshya/public_html/smart/engine/application/modules/home/views/login-fillup.php on line 972
+[16-May-2016 18:46:33 Etc/GMT] PHP Parse error:  syntax error, unexpected '}' in /home/smartshikshya/public_html/smart/engine/application/modules/home/views/login-fillup.php on line 972
+[16-May-2016 18:46:33 Etc/GMT] PHP Parse error:  syntax error, unexpected '}' in /home/smartshikshya/public_html/smart/engine/application/modules/home/views/login-fillup.php on line 972
+[16-May-2016 18:50:16 Etc/GMT] PHP Parse error:  syntax error, unexpected '}' in /home/smartshikshya/public_html/smart/engine/application/modules/home/views/login-fillup.php on line 971
+[16-May-2016 18:50:16 Etc/GMT] PHP Parse error:  syntax error, unexpected '}' in /home/smartshikshya/public_html/smart/engine/application/modules/home/views/login-fillup.php on line 971
+[16-May-2016 18:50:16 Etc/GMT] PHP Parse error:  syntax error, unexpected '}' in /home/smartshikshya/public_html/smart/engine/application/modules/home/views/login-fillup.php on line 971
+[16-May-2016 18:50:17 Etc/GMT] PHP Parse error:  syntax error, unexpected '}' in /home/smartshikshya/public_html/smart/engine/application/modules/home/views/login-fillup.php on line 971
+[16-May-2016 18:50:18 Etc/GMT] PHP Parse error:  syntax error, unexpected '}' in /home/smartshikshya/public_html/smart/engine/application/modules/home/views/login-fillup.php on line 971
+[16-May-2016 18:50:18 Etc/GMT] PHP Parse error:  syntax error, unexpected '}' in /home/smartshikshya/public_html/smart/engine/application/modules/home/views/login-fillup.php on line 971
+[16-May-2016 18:50:18 Etc/GMT] PHP Parse error:  syntax error, unexpected '}' in /home/smartshikshya/public_html/smart/engine/application/modules/home/views/login-fillup.php on line 971
+[16-May-2016 18:50:18 Etc/GMT] PHP Parse error:  syntax error, unexpected '}' in /home/smartshikshya/public_html/smart/engine/application/modules/home/views/login-fillup.php on line 971
+[16-May-2016 18:50:18 Etc/GMT] PHP Parse error:  syntax error, unexpected '}' in /home/smartshikshya/public_html/smart/engine/application/modules/home/views/login-fillup.php on line 971
+[16-May-2016 18:50:18 Etc/GMT] PHP Parse error:  syntax error, unexpected '}' in /home/smartshikshya/public_html/smart/engine/application/modules/home/views/login-fillup.php on line 971
+[16-May-2016 18:50:19 Etc/GMT] PHP Parse error:  syntax error, unexpected '}' in /home/smartshikshya/public_html/smart/engine/application/modules/home/views/login-fillup.php on line 971
+[17-May-2016 15:25:21 Etc/GMT] PHP Fatal error:  Call to a member function get_byId() on null in /home/smartshikshya/public_html/smart/engine/application/modules/signin/controllers/signin.php on line 861
+[17-May-2016 15:25:57 Etc/GMT] PHP Fatal error:  Call to a member function get_byId() on null in /home/smartshikshya/public_html/smart/engine/application/modules/signin/controllers/signin.php on line 861
+[17-May-2016 15:26:01 Etc/GMT] PHP Warning:  Unterminated comment starting line 225 in /home/smartshikshya/public_html/smart/engine/application/modules/signin/controllers/signin.php on line 225
+[17-May-2016 15:26:01 Etc/GMT] PHP Parse error:  syntax error, unexpected end of file, expecting function (T_FUNCTION) in /home/smartshikshya/public_html/smart/engine/application/modules/signin/controllers/signin.php on line 303
+[17-May-2016 15:26:01 Etc/GMT] PHP Warning:  Unterminated comment starting line 225 in /home/smartshikshya/public_html/smart/engine/application/modules/signin/controllers/signin.php on line 225
+[17-May-2016 15:26:01 Etc/GMT] PHP Parse error:  syntax error, unexpected end of file, expecting function (T_FUNCTION) in /home/smartshikshya/public_html/smart/engine/application/modules/signin/controllers/signin.php on line 303
+[17-May-2016 15:26:01 Etc/GMT] PHP Warning:  Unterminated comment starting line 225 in /home/smartshikshya/public_html/smart/engine/application/modules/signin/controllers/signin.php on line 225
+[17-May-2016 15:26:01 Etc/GMT] PHP Parse error:  syntax error, unexpected end of file, expecting function (T_FUNCTION) in /home/smartshikshya/public_html/smart/engine/application/modules/signin/controllers/signin.php on line 303
+[17-May-2016 15:26:01 Etc/GMT] PHP Warning:  Unterminated comment starting line 225 in /home/smartshikshya/public_html/smart/engine/application/modules/signin/controllers/signin.php on line 225
+[17-May-2016 15:26:01 Etc/GMT] PHP Parse error:  syntax error, unexpected end of file, expecting function (T_FUNCTION) in /home/smartshikshya/public_html/smart/engine/application/modules/signin/controllers/signin.php on line 303
+[17-May-2016 15:26:04 Etc/GMT] PHP Parse error:  syntax error, unexpected ''home_imag' (T_ENCAPSED_AND_WHITESPACE) in /home/smartshikshya/public_html/smart/engine/application/modules/signin/controllers/signin.php on line 1825
+[17-May-2016 16:11:13 Etc/GMT] PHP Parse error:  syntax error, unexpected end of file, expecting function (T_FUNCTION) in /home/smartshikshya/public_html/smart/engine/application/modules/signin/controllers/signin.php on line 1529
+[24-May-2016 15:27:56 Etc/GMT] PHP Parse error:  syntax error, unexpected end of file, expecting ')' in /home/smartshikshya/public_html/smart/engine/application/modules/data/controllers/data.php on line 278
+[24-May-2016 15:32:00 Etc/GMT] PHP Fatal error:  Class 'Data_model' not found in /home/smartshikshya/public_html/smart/engine/application/third_party/MX/Loader.php on line 206
+[24-May-2016 16:23:19 Etc/GMT] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE), expecting function (T_FUNCTION) in /home/smartshikshya/public_html/smart/engine/application/modules/course/controllers/course.php on line 1459
+[24-May-2016 16:23:23 Etc/GMT] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE), expecting function (T_FUNCTION) in /home/smartshikshya/public_html/smart/engine/application/modules/course/controllers/course.php on line 1459
+[24-May-2016 16:23:27 Etc/GMT] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE), expecting function (T_FUNCTION) in /home/smartshikshya/public_html/smart/engine/application/modules/course/controllers/course.php on line 1459
+[24-May-2016 16:23:31 Etc/GMT] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE), expecting function (T_FUNCTION) in /home/smartshikshya/public_html/smart/engine/application/modules/course/controllers/course.php on line 1459
+[26-May-2016 15:45:34 Etc/GMT] PHP Fatal error:  Call to a member function getLoginUrl() on null in /home/smartshikshya/public_html/smart/engine/application/views/common_front/footer.php on line 2
+[26-May-2016 15:45:52 Etc/GMT] PHP Fatal error:  Call to a member function getLoginUrl() on null in /home/smartshikshya/public_html/smart/engine/application/views/common_front/footer.php on line 2
+[26-May-2016 15:47:50 Etc/GMT] PHP Fatal error:  Call to a member function getLoginUrl() on null in /home/smartshikshya/public_html/smart/engine/application/views/common_front/footer.php on line 2
+[26-May-2016 15:51:01 Etc/GMT] PHP Fatal error:  Call to a member function getLoginUrl() on null in /home/smartshikshya/public_html/smart/engine/application/views/common_front/footer.php on line 2
+[26-May-2016 15:56:19 Etc/GMT] PHP Fatal error:  Call to a member function getLoginUrl() on null in /home/smartshikshya/public_html/smart/engine/application/views/common_front/footer.php on line 2
+[26-May-2016 15:56:28 Etc/GMT] PHP Fatal error:  Call to a member function getLoginUrl() on null in /home/smartshikshya/public_html/smart/engine/application/views/common_front/footer.php on line 2
+[26-May-2016 15:57:27 Etc/GMT] PHP Fatal error:  Call to a member function getLoginUrl() on null in /home/smartshikshya/public_html/smart/engine/application/views/common_front/footer.php on line 2
+[26-May-2016 16:17:34 Etc/GMT] PHP Fatal error:  Call to undefined method Signin::get_fb_contents() in /home/smartshikshya/public_html/smart/engine/application/modules/signin/controllers/signin.php on line 70
+[26-May-2016 16:19:43 Etc/GMT] PHP Fatal error:  Call to undefined method Signin::get_fb_contents() in /home/smartshikshya/public_html/smart/engine/application/modules/signin/controllers/signin.php on line 70
+[26-May-2016 16:19:44 Etc/GMT] PHP Fatal error:  Call to undefined method Signin::get_fb_contents() in /home/smartshikshya/public_html/smart/engine/application/modules/signin/controllers/signin.php on line 70
+[26-May-2016 16:20:14 Etc/GMT] PHP Fatal error:  Call to undefined method Signin::get_fb_contents() in /home/smartshikshya/public_html/smart/engine/application/modules/signin/controllers/signin.php on line 70
+[26-May-2016 16:20:15 Etc/GMT] PHP Fatal error:  Call to undefined method Signin::get_fb_contents() in /home/smartshikshya/public_html/smart/engine/application/modules/signin/controllers/signin.php on line 70
+[07-Jun-2016 14:57:50 Etc/GMT] PHP Fatal error:  Uncaught exception 'LinkedInException' with message 'LinkedIn->retrieveTokenAccess(): bad data passed, string type is required for $token, $secret and $verifier.' in /home/smartshikshya/public_html/smart/engine/application/libraries/Linkedin.php:1808
+Stack trace:
+#0 /home/smartshikshya/public_html/smart/engine/application/modules/linkedin_signup/controllers/linkedin_signup.php(67): LinkedIn->retrieveTokenAccess(false, false, false)
+#1 [internal function]: Linkedin_signup->data()
+#2 /home/smartshikshya/public_html/smart/engine/system/core/CodeIgniter.php(359): call_user_func_array(Array, Array)
+#3 /home/smartshikshya/public_html/smart/index.php(203): require_once('/home/smartshik...')
+#4 {main}
+  thrown in /home/smartshikshya/public_html/smart/engine/application/libraries/Linkedin.php on line 1808
+[09-Jun-2016 16:37:04 Etc/GMT] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/smartshikshya/public_html/smart/engine/application/config/ion_auth.php on line 88
+[09-Jun-2016 16:37:04 Etc/GMT] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/smartshikshya/public_html/smart/engine/application/config/ion_auth.php on line 88
+[09-Jun-2016 16:37:05 Etc/GMT] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/smartshikshya/public_html/smart/engine/application/config/ion_auth.php on line 88
+[09-Jun-2016 16:37:05 Etc/GMT] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/smartshikshya/public_html/smart/engine/application/config/ion_auth.php on line 88
+[09-Jun-2016 16:48:56 Etc/GMT] PHP Parse error:  syntax error, unexpected end of file in /home/smartshikshya/public_html/smart/engine/application/modules/home/views/login-fillup.php on line 373
+[09-Jun-2016 16:51:24 Etc/GMT] PHP Parse error:  syntax error, unexpected end of file in /home/smartshikshya/public_html/smart/engine/application/modules/home/views/login-fillup.php on line 649
+[12-Jun-2016 16:14:58 Etc/GMT] PHP Parse error:  syntax error, unexpected end of file, expecting variable (T_VARIABLE) or ${ (T_DOLLAR_OPEN_CURLY_BRACES) or {$ (T_CURLY_OPEN) in /home/smartshikshya/public_html/smart/engine/application/modules/home/controllers/home.php on line 357
+[12-Jun-2016 16:23:36 Etc/GMT] PHP Parse error:  syntax error, unexpected end of file, expecting variable (T_VARIABLE) or ${ (T_DOLLAR_OPEN_CURLY_BRACES) or {$ (T_CURLY_OPEN) in /home/smartshikshya/public_html/smart/engine/application/modules/home/controllers/home.php on line 357
+[13-Jun-2016 13:53:31 Etc/GMT] PHP Fatal error:  Class 'Home_model' not found in /home/smartshikshya/public_html/smart/engine/application/third_party/MX/Loader.php on line 206
+[16-Jun-2016 17:18:04 Etc/GMT] PHP Parse error:  syntax error, unexpected '.' in /home/smartshikshya/public_html/smart/engine/application/modules/signin/views/student/third.php on line 32
+[16-Jun-2016 17:18:15 Etc/GMT] PHP Parse error:  syntax error, unexpected '.' in /home/smartshikshya/public_html/smart/engine/application/modules/signin/views/student/third.php on line 32
+[16-Jun-2016 17:18:27 Etc/GMT] PHP Parse error:  syntax error, unexpected '.' in /home/smartshikshya/public_html/smart/engine/application/modules/signin/views/student/third.php on line 32
+[19-Jun-2016 14:52:14 Etc/GMT] PHP Fatal error:  Class 'Home_model' not found in /home/smartshikshya/public_html/smart/engine/application/third_party/MX/Loader.php on line 206
+[21-Jun-2016 14:56:58 Etc/GMT] PHP Parse error:  syntax error, unexpected ''question_' (T_ENCAPSED_AND_WHITESPACE), expecting ']' in /home/smartshikshya/public_html/smart/engine/application/modules/home/controllers/home.php on line 354
+[21-Jun-2016 15:20:51 Etc/GMT] PHP Parse error:  syntax error, unexpected end of file in /home/smartshikshya/public_html/smart/engine/application/modules/home/controllers/home.php on line 354
+[21-Jun-2016 15:20:55 Etc/GMT] PHP Parse error:  syntax error, unexpected end of file in /home/smartshikshya/public_html/smart/engine/application/modules/home/controllers/home.php on line 354
+[21-Jun-2016 15:21:12 Etc/GMT] PHP Parse error:  syntax error, unexpected end of file in /home/smartshikshya/public_html/smart/engine/application/modules/home/controllers/home.php on line 354
+[21-Jun-2016 15:21:15 Etc/GMT] PHP Parse error:  syntax error, unexpected end of file in /home/smartshikshya/public_html/smart/engine/application/modules/home/controllers/home.php on line 354
+[21-Jun-2016 15:21:18 Etc/GMT] PHP Parse error:  syntax error, unexpected end of file in /home/smartshikshya/public_html/smart/engine/application/modules/home/controllers/home.php on line 354
+[21-Jun-2016 15:22:11 Etc/GMT] PHP Parse error:  syntax error, unexpected end of file in /home/smartshikshya/public_html/smart/engine/application/modules/home/controllers/home.php on line 354
+[21-Jun-2016 15:23:22 Etc/GMT] PHP Parse error:  syntax error, unexpected end of file in /home/smartshikshya/public_html/smart/engine/application/modules/home/controllers/home.php on line 354
+[21-Jun-2016 15:26:26 Etc/GMT] PHP Parse error:  syntax error, unexpected end of file in /home/smartshikshya/public_html/smart/engine/application/modules/home/controllers/home.php on line 354
+[21-Jun-2016 15:26:28 Etc/GMT] PHP Parse error:  syntax error, unexpected end of file in /home/smartshikshya/public_html/smart/engine/application/modules/home/controllers/home.php on line 354
+[21-Jun-2016 15:26:30 Etc/GMT] PHP Parse error:  syntax error, unexpected end of file in /home/smartshikshya/public_html/smart/engine/application/modules/home/controllers/home.php on line 354
+[21-Jun-2016 15:26:35 Etc/GMT] PHP Parse error:  syntax error, unexpected end of file in /home/smartshikshya/public_html/smart/engine/application/modules/home/controllers/home.php on line 354
+[21-Jun-2016 15:26:35 Etc/GMT] PHP Parse error:  syntax error, unexpected end of file in /home/smartshikshya/public_html/smart/engine/application/modules/home/controllers/home.php on line 354
+[21-Jun-2016 15:26:35 Etc/GMT] PHP Parse error:  syntax error, unexpected end of file in /home/smartshikshya/public_html/smart/engine/application/modules/home/controllers/home.php on line 354
+[21-Jun-2016 16:06:02 Etc/GMT] PHP Parse error:  syntax error, unexpected end of file in /home/smartshikshya/public_html/smart/engine/application/modules/home/views/index.php on line 251
+[21-Jun-2016 16:06:04 Etc/GMT] PHP Parse error:  syntax error, unexpected end of file in /home/smartshikshya/public_html/smart/engine/application/modules/home/views/index.php on line 251
+[21-Jun-2016 16:06:31 Etc/GMT] PHP Parse error:  syntax error, unexpected end of file in /home/smartshikshya/public_html/smart/engine/application/modules/home/views/index.php on line 247
+[21-Jun-2016 16:06:32 Etc/GMT] PHP Parse error:  syntax error, unexpected end of file in /home/smartshikshya/public_html/smart/engine/application/modules/home/views/index.php on line 247
+[21-Jun-2016 16:06:34 Etc/GMT] PHP Parse error:  syntax error, unexpected end of file in /home/smartshikshya/public_html/smart/engine/application/modules/home/views/index.php on line 247
+[21-Jun-2016 16:07:39 Etc/GMT] PHP Parse error:  syntax error, unexpected end of file in /home/smartshikshya/public_html/smart/engine/application/modules/home/views/index.php on line 247
+[21-Jun-2016 16:07:40 Etc/GMT] PHP Parse error:  syntax error, unexpected end of file in /home/smartshikshya/public_html/smart/engine/application/modules/home/views/index.php on line 247
+[22-Jun-2016 15:08:27 Etc/GMT] PHP Fatal error:  Class 'Home_model' not found in /home/smartshikshya/public_html/smart/engine/application/third_party/MX/Loader.php on line 206
+[29-Jun-2016 16:44:32 Etc/GMT] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/smartshikshya/public_html/smart/engine/application/config/ion_auth.php on line 88
+[29-Jun-2016 16:44:33 Etc/GMT] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/smartshikshya/public_html/smart/engine/application/config/ion_auth.php on line 88
+[29-Jun-2016 16:44:33 Etc/GMT] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/smartshikshya/public_html/smart/engine/application/config/ion_auth.php on line 88
+[29-Jun-2016 16:44:33 Etc/GMT] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/smartshikshya/public_html/smart/engine/application/config/ion_auth.php on line 88
+[29-Jun-2016 16:44:34 Etc/GMT] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/smartshikshya/public_html/smart/engine/application/config/ion_auth.php on line 88
+[29-Jun-2016 16:44:34 Etc/GMT] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/smartshikshya/public_html/smart/engine/application/config/ion_auth.php on line 88
+[29-Jun-2016 16:44:34 Etc/GMT] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/smartshikshya/public_html/smart/engine/application/config/ion_auth.php on line 88
+[29-Jun-2016 16:44:34 Etc/GMT] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/smartshikshya/public_html/smart/engine/application/config/ion_auth.php on line 88
+[29-Jun-2016 16:44:34 Etc/GMT] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/smartshikshya/public_html/smart/engine/application/config/ion_auth.php on line 88
+[29-Jun-2016 16:44:34 Etc/GMT] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/smartshikshya/public_html/smart/engine/application/config/ion_auth.php on line 88
+[29-Jun-2016 16:44:34 Etc/GMT] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/smartshikshya/public_html/smart/engine/application/config/ion_auth.php on line 88
+[29-Jun-2016 16:44:36 Etc/GMT] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/smartshikshya/public_html/smart/engine/application/config/ion_auth.php on line 88
+[29-Jun-2016 16:44:36 Etc/GMT] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/smartshikshya/public_html/smart/engine/application/config/ion_auth.php on line 88
+[29-Jun-2016 16:44:36 Etc/GMT] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/smartshikshya/public_html/smart/engine/application/config/ion_auth.php on line 88
+[29-Jun-2016 16:44:36 Etc/GMT] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/smartshikshya/public_html/smart/engine/application/config/ion_auth.php on line 88
+[05-Jul-2016 13:48:02 Etc/GMT] PHP Parse error:  syntax error, unexpected end of file in /home/smartshikshya/public_html/smart/engine/application/modules/home/views/chapter.php on line 253
+[05-Jul-2016 13:48:02 Etc/GMT] PHP Parse error:  syntax error, unexpected end of file in /home/smartshikshya/public_html/smart/engine/application/modules/home/views/chapter.php on line 253
+[05-Jul-2016 13:48:02 Etc/GMT] PHP Parse error:  syntax error, unexpected end of file in /home/smartshikshya/public_html/smart/engine/application/modules/home/views/chapter.php on line 253
+[05-Jul-2016 13:48:02 Etc/GMT] PHP Parse error:  syntax error, unexpected end of file in /home/smartshikshya/public_html/smart/engine/application/modules/home/views/chapter.php on line 253
+[05-Jul-2016 13:48:04 Etc/GMT] PHP Parse error:  syntax error, unexpected end of file in /home/smartshikshya/public_html/smart/engine/application/modules/home/views/chapter.php on line 253
+[05-Jul-2016 13:48:39 Etc/GMT] PHP Parse error:  syntax error, unexpected end of file in /home/smartshikshya/public_html/smart/engine/application/modules/home/views/chapter.php on line 253
+[05-Jul-2016 13:48:39 Etc/GMT] PHP Parse error:  syntax error, unexpected end of file in /home/smartshikshya/public_html/smart/engine/application/modules/home/views/chapter.php on line 253
+[05-Jul-2016 13:51:46 Etc/GMT] PHP Parse error:  syntax error, unexpected end of file in /home/smartshikshya/public_html/smart/engine/application/modules/home/views/chapter.php on line 254
+[22-Jul-2016 13:46:40 Etc/GMT] PHP Fatal error:  Uncaught exception 'LinkedInException' with message 'LinkedIn->retrieveTokenAccess(): bad data passed, string type is required for $token, $secret and $verifier.' in /home/smartshikshya/public_html/smart/engine/application/libraries/Linkedin.php:1808
+Stack trace:
+#0 /home/smartshikshya/public_html/smart/engine/application/modules/linkedin_signup/controllers/linkedin_signup.php(67): LinkedIn->retrieveTokenAccess(false, false, false)
+#1 [internal function]: Linkedin_signup->data()
+#2 /home/smartshikshya/public_html/smart/engine/system/core/CodeIgniter.php(359): call_user_func_array(Array, Array)
+#3 /home/smartshikshya/public_html/smart/index.php(203): require_once('/home/smartshik...')
+#4 {main}
+  thrown in /home/smartshikshya/public_html/smart/engine/application/libraries/Linkedin.php on line 1808
+[05-Aug-2016 06:47:49 Etc/GMT] PHP Fatal error:  Uncaught exception 'LinkedInException' with message 'LinkedIn->retrieveTokenAccess(): bad data passed, string type is required for $token, $secret and $verifier.' in /home/smartshikshya/public_html/smart/engine/application/libraries/Linkedin.php:1808
+Stack trace:
+#0 /home/smartshikshya/public_html/smart/engine/application/modules/linkedin_signup/controllers/linkedin_signup.php(67): LinkedIn->retrieveTokenAccess(false, false, false)
+#1 [internal function]: Linkedin_signup->data()
+#2 /home/smartshikshya/public_html/smart/engine/system/core/CodeIgniter.php(359): call_user_func_array(Array, Array)
+#3 /home/smartshikshya/public_html/smart/index.php(203): require_once('/home/smartshik...')
+#4 {main}
+  thrown in /home/smartshikshya/public_html/smart/engine/application/libraries/Linkedin.php on line 1808

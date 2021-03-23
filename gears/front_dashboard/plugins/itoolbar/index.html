@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>iphone style toolbar</title>
+	<link rel="stylesheet" type="text/css" href="itoolbar/jquery.toolbar.css">
+	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css">
+	<script type="text/javascript" src="jquery.min.js"></script>
+	<script type="text/javascript" src="itoolbar/jquery.toolbar.min.js"></script>
+	<script type="text/javascript">
+
+		jQuery(document).ready(function($) {
+			// Define any icon actions before calling the toolbar
+			$('div[data-toolbar="event-option"]').toolbar({
+			    content: '#toolbar-options',
+			    position: 'top',
+			    style: 'primary',
+			    event: 'click',
+			    hideOnClick:true
+			});
+		});
+	</script>
+	<style type="text/css">
+		body{
+			padding: 100px;
+		}
+	</style>
+</head>
+<body>
+	
+	<div id="toolbar-options" class="hidden">
+	   <a href="#"><i class="fa fa-user"></i></a>
+	   <a href="#"><i class="fa fa-power-off"></i></a>
+	   <a href="#"><i class="fa fa-edit"></i></a>
+	</div>
+	
+	<div class="btn-toolbar btn-toolbar-primary" id="button" data-toolbar="event-option"><i class="fa fa-cog"></i></div>
+
+</body>
+</html>

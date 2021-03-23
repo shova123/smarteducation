@@ -1,0 +1,33 @@
+.file-wrapper {
+  cursor: pointer;
+  display: inline-block;
+  overflow: hidden;
+  position: relative;
+  vertical-align: middle;
+}
+
+.file-wrapper input {
+  cursor: pointer;
+  font-size: 100px;
+  height: 100%;
+  filter: alpha(opacity=1);
+  -moz-opacity: 0.01;
+  opacity: 0.01;
+  position: absolute;
+  right: 0;
+  top: 0;
+}
+
+.file-wrapper .button {
+  -moz-border-radius: 3px;
+  -webkit-border-radius: 3px;
+  border-radius: 3px;
+  color: #fff;
+  cursor: pointer;
+  display: inline-block;
+  font-size: 12px;
+  margin-right: 5px;
+  padding: 5px 10px;
+  background: #ee4511 url(../images/bg-grad-white-fadeup.png) left bottom repeat-x;
+  font-weight: bold;
+}
